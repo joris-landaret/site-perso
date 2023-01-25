@@ -17,12 +17,12 @@
     </header>
 
     <main>
-        <h2>Joris Landaret</h2>
-        <h1>Recherche alternance</h1>
-        <h2>développeur web</h2>
-        <div>
-            <h2>A propos de mois</h2>
-            <p>
+        <h2 class="titre">Joris Landaret</h2>
+        <h1 class="titre">Recherche alternance</h1>
+        <h2 class="titre">développeur web</h2>
+        <div id="ok">
+            <h2 class="titre" id="titre_moi">A propos de mois</h2>
+            <p class="titre" id="moi">
                 Étudiant de la formation START - WEB
                 à la Plateforme, la nouvelle école du
                 numérique de la métropole Aix-Marseille.
