@@ -5,8 +5,21 @@ body {
     background-size: cover;
     background-attachment: fixed;
     color: white;
+    
 }
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1%;
+    font-size: 113%;
+}
+
 a {
     color: white;
     text-decoration: none;
+}
+
+main {
+    padding: 1%;
 }
