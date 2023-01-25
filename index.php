@@ -11,11 +11,16 @@
 
 <body>
     <header>
-
+        <a href="">A propos de moi</a>
+        <a href="">Projet</a>
+        <a href="">CV</a>
     </header>
 
     <main>
         <h1>Joris Landaret</h1>
+        <div></div>
+        <div></div>
+        <div></div>
     </main>
 
     <footer>
