@@ -30,7 +30,32 @@
                 Pédagogie active basée sur des projets.
             </p>
         </div>
-        <div></div>
+
+        <h2>Projets réalisé</h2>
+
+        <div id="projets">
+            <div>
+                <h3>titre</h3>
+                <a href=""><img src="" alt="">image lien</a>
+                <p>langage utilisé</p>
+                <p>description projet</p>
+            </div>
+
+            <div>
+                <h3>titre</h3>
+                <a href=""><img src="" alt="">image lien</a>
+                <p>langage utilisé</p>
+                <p>description projet</p>
+            </div>
+
+            <div>
+                <h3>titre</h3>
+                <a href=""><img src="" alt="">image lien</a>
+                <p>langage utilisé</p>
+                <p>description projet</p>
+            </div>
+        </div>
+
         <div></div>
     </main>
 
