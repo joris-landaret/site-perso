@@ -8,6 +8,8 @@ body {
     
 }
 
+/* Header */ 
+
 header {
     display: flex;
     justify-content: space-evenly;
@@ -19,6 +21,8 @@ a {
     color: white;
     text-decoration: none;
 }
+
+/* Main */
 
 main {
     padding: 1%;
@@ -41,11 +45,6 @@ main {
     font-size: 113%;
     width: 50%;
     text-align: center;
-}
-
-#titre_moi {
-
-
 }
 
 #ok {

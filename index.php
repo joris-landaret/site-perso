@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <header>
+    <header id="my_header">
         <a href="">A propos de moi</a>
         <a href="">Projet</a>
         <a href="">CV</a>
