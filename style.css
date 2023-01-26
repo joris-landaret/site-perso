@@ -56,3 +56,15 @@ a {
     padding: 3%;
     margin: 3%;
 }
+
+/* projets réaliser */
+
+#projets {
+    display: flex;
+    justify-content: space-around
+}
+
+#projets div {
+    border: solid 1px;
+    padding: 1%;
+}

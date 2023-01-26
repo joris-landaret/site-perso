@@ -31,7 +31,7 @@
             </p>
         </div>
 
-        <h2>Projets réalisé</h2>
+        <h2 class="titre">Projets réalisé</h2>
 
         <div id="projets">
             <div>
