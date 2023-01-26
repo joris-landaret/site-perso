@@ -23,10 +23,11 @@ a {
 main {
     padding: 1%;
     width: 100%;
+    margin-top: 1%;
     
 }
 
-/* Classe */
+/* Titre */
 
 .titre {
    
@@ -34,7 +35,7 @@ main {
     justify-content: center;
 }
 
-    /* A propos de moi */
+/* A propos de moi */
 
 #moi {
     font-size: 113%;
@@ -44,12 +45,16 @@ main {
 
 #titre_moi {
 
-    margin-top: 5%;
+
 }
 
 #ok {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+    background-image: url(img/source-g9e352d4f2_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3%;
+    margin: 3%;
 }
