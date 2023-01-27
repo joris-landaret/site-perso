@@ -36,7 +36,7 @@
         <div id="projets">
             <div>
                 <h3>titre</h3>
-                <a href=""><img src="" alt="">image lien</a>
+                <a href="https://joris-landaret.students-laplateforme.io/voyages/voyages/grece.html"><img src="img/Capture d'écran_20230127_093550.png" alt="">image lien</a>
                 <p>langage utilisé</p>
                 <p>description projet</p>
             </div>
