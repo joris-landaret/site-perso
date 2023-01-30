@@ -22,7 +22,7 @@
         <h2 class="titre">développeur web</h2>
         <div id="ok">
             <h2 class="titre" id="titre_moi">A propos de mois</h2>
-            <p class="titre" id="moi">
+            <p class="titre text">
                 Étudiant de la formation START - WEB
                 à la Plateforme, la nouvelle école du
                 numérique de la métropole Aix-Marseille.
@@ -34,24 +34,24 @@
         <h2 class="titre">Projets réalisé</h2>
 
         <div id="projets">
-            <div>
-                <h3>titre</h3>
-                <a href="https://joris-landaret.students-laplateforme.io/voyages/voyages/grece.html"><img src="img/Capture d'écran_20230127_093550.png" alt="">image lien</a>
-                <p>langage utilisé</p>
+            <div class="mes_projets">
+                <h3 class="titre">Site de voyages</h3>
+                <a href="https://joris-landaret.students-laplateforme.io/voyages/voyages/grece.html"><img src="img/Capture d'écran_20230127_093550.png" alt=""></a>
+                <p class="langue">langage utilisé : HTML et CSS</p>
+                <p>Projet en groupe. On s'est chacun occupé de la page d'un pays, j'ai personnellement fait celui de la grèce </p>
+            </div>
+
+            <div class="mes_projets">
+                <h3 class="titre">titre</h3>
+                <a href=""><img src="" alt="">image / lien</a>
+                <p class="langue">langage utilisé</p>
                 <p>description projet</p>
             </div>
 
-            <div>
-                <h3>titre</h3>
-                <a href=""><img src="" alt="">image lien</a>
-                <p>langage utilisé</p>
-                <p>description projet</p>
-            </div>
-
-            <div>
-                <h3>titre</h3>
-                <a href=""><img src="" alt="">image lien</a>
-                <p>langage utilisé</p>
+            <div class="mes_projets">
+                <h3 class="titre">titre</h3>
+                <a href=""><img src="" alt="">image / lien</a>
+                <p class="langue">langage utilisé : </p>
                 <p>description projet</p>
             </div>
         </div>
