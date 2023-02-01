@@ -30,6 +30,23 @@ a {
     text-decoration: none;
 }
 
+/* Footer */
+
+footer{
+    display: flex;
+    background-color: black;
+    justify-content: space-evenly;
+    height: 127px;
+}
+footer a {
+    width: 7%;
+    align-items: center;
+    display: flex;
+}
+footer a img{
+    border-radius: 14%;
+}
+
 /* Titre */
 
 .titre {
