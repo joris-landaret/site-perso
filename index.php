@@ -44,7 +44,7 @@
 
             <div class="mes_projets">
                 <h3 class="titre">Livre d'or</h3>
-                <a href="http://livre-or/" target="_blank"><img src="img/livre-or.png" alt=""></a>
+                <a href="https://joris-landaret.students-laplateforme.io/livre-or/index.php" target="_blank"><img src="img/livre-or.png" alt=""></a>
                 <p class="langue">langage utilisé : HTML, CSS, PHP et SQL(MariaDB)</p>
                 <p>
                     Projet en autonomie.
