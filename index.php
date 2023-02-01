@@ -60,7 +60,8 @@
     </main>
 
     <footer>
-
+        <a href="https://www.linkedin.com/in/joris-landaret-6278451b2/"><img src="img/images.jpg" alt="Linkedin"></a>
+        <a href="https://github.com/joris-landaret"><img src="img/github-universe.png" alt="Git Hub"></a>
     </footer>
 </body>
 
