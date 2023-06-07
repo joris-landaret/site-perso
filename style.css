@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
 body {
+    font-family: Poiret One;
     margin: 0;
     background-image: url(img/space-g7b36651f7_1920.jpg);
     background-repeat: no-repeat;
@@ -64,10 +67,7 @@ footer a img{
     text-align: center;
 }
 
-#ok {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+#back {
     background-image: url(img/source-g9e352d4f2_1920.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -75,11 +75,20 @@ footer a img{
     margin: 3%;
 }
 
+#ok {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #00000042;
+    margin: -3%;
+}
+
 /* projets réaliser */
 
 #projets {
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 #projets div {
@@ -90,6 +99,9 @@ footer a img{
 
 .mes_projets {
     width: 21%;
+    background-color: #00000042;
+    border-radius: 22px;
+    margin: 1%;
 }
 
 img {
@@ -103,4 +115,9 @@ img {
 .mes_projets :last-child {
     font-size: 113%;
     text-align: center;
+}
+
+.mes_projets:hover {
+    width: 50%;
+    margin: 1%;
 }

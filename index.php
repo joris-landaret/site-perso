@@ -1,3 +1,9 @@
+<?php
+
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -20,15 +26,17 @@
         <h2 class="titre">Joris Landaret</h2>
         <h1 class="titre">Recherche alternance</h1>
         <h2 class="titre">développeur web</h2>
-        <div id="ok">
-            <h2 class="titre" id="titre_moi">A propos de mois</h2>
-            <p class="titre text">
-                Étudiant de la formation START - WEB
-                à la Plateforme, la nouvelle école du
-                numérique de la métropole Aix-Marseille.
-                Formation de développeur web/web mobile.
-                Pédagogie active basée sur des projets.
-            </p>
+        <div id="back">
+            <div id="ok">
+                <h2 class="titre" id="titre_moi">A propos de mois</h2>
+                <p class="titre text">
+                    Étudiant de la formation START - WEB
+                    à la Plateforme, la nouvelle école du
+                    numérique de la métropole Aix-Marseille.
+                    Formation de développeur web/web mobile.
+                    Pédagogie active basée sur des projets.
+                </p>
+            </div>
         </div>
 
         <h2 class="titre">Projets réalisé</h2>
@@ -50,6 +58,20 @@
                     Projet en autonomie.
                     Création d'une base de données et des tables pour les lier aux formulaire de connexion, inscription, commentaire et livre d'or avec PHP.
                 </p>
+            </div>
+
+            <div class="mes_projets">
+                <h3 class="titre">titre</h3>
+                <a href="" target="_blank"><img src="" alt="">image / lien</a>
+                <p class="langue">langage utilisé : </p>
+                <p>description projet</p>
+            </div>
+
+            <div class="mes_projets">
+                <h3 class="titre">titre</h3>
+                <a href="" target="_blank"><img src="" alt="">image / lien</a>
+                <p class="langue">langage utilisé : </p>
+                <p>description projet</p>
             </div>
 
             <div class="mes_projets">
