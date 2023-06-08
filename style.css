@@ -87,8 +87,11 @@ footer a img{
 
 #projets {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+    /* display: grid;
+    grid-template-columns: 30% 30% 30%; */
+    justify-items: center;
 }
 
 #projets div {
@@ -110,6 +113,9 @@ img {
 
 .langue {
     font-size: 113%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
 .mes_projets :last-child {
@@ -118,6 +124,6 @@ img {
 }
 
 .mes_projets:hover {
-    width: 50%;
-    margin: 1%;
+    width: 45%;
+    background-color: #193364a3;
 }

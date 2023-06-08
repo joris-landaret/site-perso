@@ -1,9 +1,3 @@
-<?php
-
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,7 +19,7 @@
     <main>
         <h2 class="titre">Joris Landaret</h2>
         <h1 class="titre">Recherche alternance</h1>
-        <h2 class="titre">développeur web</h2>
+        <h2 class="titre">développeur logiciel</h2>
         <div id="back">
             <div id="ok">
                 <h2 class="titre" id="titre_moi">A propos de mois</h2>
@@ -61,24 +55,24 @@
             </div>
 
             <div class="mes_projets">
-                <h3 class="titre">titre</h3>
-                <a href="" target="_blank"><img src="" alt="">image / lien</a>
-                <p class="langue">langage utilisé : </p>
-                <p>description projet</p>
+                <h3 class="titre">Super Week</h3>
+                <a href="" target="_blank"><img src="img/super-week.png" alt=""></a>
+                <p class="langue">langage utilisé : HTML, PHP, javascriptet et SQL(MariaDB)</p>
+                <p>Projet en autonomie. C'est un projet qui utilise l'autoloading, les router la méthode "MVC" et javascript en asynchrone.</p>
             </div>
 
             <div class="mes_projets">
-                <h3 class="titre">titre</h3>
+                <h3 class="titre">Boutique en ligne</h3>
                 <a href="" target="_blank"><img src="" alt="">image / lien</a>
-                <p class="langue">langage utilisé : </p>
-                <p>description projet</p>
+                <p class="langue">langage utilisé : HTML, CSS, PHP, javascriptet et SQL(MariaDB)</p>
+                <p>Projet en groupe. On s'est répartis les tâches, et je me suis occupé de toute la partie administrateur.</p>
             </div>
 
             <div class="mes_projets">
-                <h3 class="titre">titre</h3>
+                <h3 class="titre">Cinetech</h3>
                 <a href="" target="_blank"><img src="" alt="">image / lien</a>
-                <p class="langue">langage utilisé : </p>
-                <p>description projet</p>
+                <p class="langue">langage utilisé : HTML, CSS, PHP, javascriptet et SQL(MariaDB)</p>
+                <p>Projet en autonomie. Utilisation de l'API "TMDB" pour afficher en asynchrone avec javascript, les films et séries télé</p>
             </div>
         </div>
 
