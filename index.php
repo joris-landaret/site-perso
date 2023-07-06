@@ -9,10 +9,10 @@
     <title>Joris Landaret</title>
 </head>
 
-<body>
+<body id="main">
     <header id="my_header">
-        <a href="">A propos de moi</a>
-        <a href="#projets">Projets</a>
+        <a href="#main">A propos de moi</a>
+        <a href="#titre">Projets</a>
         <a href="CV/CV_Joris_Landaret__développeur_logiciel.pdf" download="CV_Joris_Landaret_développeur_logiciel.pdf">CV</a>
     </header>
 
@@ -23,7 +23,7 @@
         <div id="back">
             <div id="ok">
                 <h2 class="titre" id="titre_moi">A propos de mois</h2>
-                <p class="titre text">
+                <p class="titre text" id="titre">
                     Étudiant de la formation START - WEB
                     à la Plateforme, la nouvelle école du
                     numérique de la métropole Aix-Marseille.
