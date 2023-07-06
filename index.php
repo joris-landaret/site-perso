@@ -38,35 +38,35 @@
         <div id="projets">
             <div class="mes_projets">
                 <h3 class="titre">Site de voyages</h3>
-                <a href="https://joris-landaret.students-laplateforme.io/voyages/voyages/grece.html" target="_blank"><img src="img/Capture d'écran_20230127_093550.png" alt=""></a>
+                <a href="https://joris-landaret.students-laplateforme.io/voyages/voyages/grece.html" target="_blank"><img src="img/Capture d'écran_20230127_093550.png" alt="Site de voyages"></a>
                 <p class="langue">langage utilisés : HTML et CSS</p>
                 <p>Projet en groupe. On s'est chacun occupé de la page d'un pays, j'ai personnellement fait celui de la Grèce </p>
             </div>
 
             <div class="mes_projets">
                 <h3 class="titre">Livre d'or</h3>
-                <a href="https://joris-landaret.students-laplateforme.io/livre-or/index.php" target="_blank"><img src="img/livre-or.png" alt=""></a>
+                <a href="https://joris-landaret.students-laplateforme.io/livre-or/index.php" target="_blank"><img src="img/livre-or.png" alt="Livre d'or"></a>
                 <p class="langue">langage utilisés : HTML, CSS, PHP et SQL(MariaDB)</p>
                 <p>Projet en autonomie. Création d'une base de données et des tables pour les lier aux formulaire de connexion, inscription, commentaire et livre d'or avec PHP.</p>
             </div>
 
             <div class="mes_projets">
                 <h3 class="titre">Super Week</h3>
-                <a href="" target="_blank"><img src="img/super-week.png" alt=""></a>
+                <a href="https://joris-landaret.students-laplateforme.io/super-week/" target="_blank"><img src="img/super-week.png" alt="Super Week"></a>
                 <p class="langue">langage utilisés : HTML, PHP, javascriptet et SQL(MariaDB)</p>
                 <p>Projet en autonomie. C'est un projet qui utilise l'autoloading, les router la méthode "MVC" et javascript en asynchrone.</p>
             </div>
 
             <div class="mes_projets">
                 <h3 class="titre">Boutique en ligne</h3>
-                <a href="" target="_blank"><img src="" alt="">image / lien</a>
+                <a href="" target="_blank"><img src="" alt="Boutique en ligne">image / lien</a>
                 <p class="langue">langage utilisés : HTML, CSS, PHP, javascriptet et SQL(MariaDB)</p>
                 <p>Projet en groupe. On s'est répartis les tâches, et je me suis occupé de toute la partie administrateur.</p>
             </div>
 
             <div class="mes_projets">
                 <h3 class="titre">Cinetech</h3>
-                <a href="" target="_blank"><img src="" alt="">image / lien</a>
+                <a href="" target="_blank"><img src="img/cinetech.png" alt="cinetech"></a>
                 <p class="langue">langage utilisés : HTML, CSS, PHP, javascriptet et SQL(MariaDB)</p>
                 <p>En cour de construction.</br>Projet en autonomie. Utilisation de l'API "TMDB" pour afficher en asynchrone avec javascript, les films et séries télé</p>
             </div>
